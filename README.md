@@ -44,7 +44,7 @@ harnessing the power of these two incredibly powerful and versatile tools.
   - Run multiple containers with Docker Compose.
 
 ## Schedule
-## hii
+
 
 
 | Time          | Topics                                                                   |
